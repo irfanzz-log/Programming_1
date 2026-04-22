@@ -1,8 +1,8 @@
 ## Contoh penggunaan tailwindcss
 
-* 1. <div class="">Content</div>
+* 1. `<div class="">Content</div>`
 * 2. Class diisi dengan nama yang sesuai oleh standar tailwind, misal "text-xl" untuk merubah ukuran text.
-* 3. <div class="text-xl">Content </div> 
+* 3. `<div class="text-xl">Content </div> `
 
 ## Contoh penggunaan js ke dalam html
 
